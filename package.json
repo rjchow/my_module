@@ -70,7 +70,7 @@
     "prettier": "1.16.4",
     "rimraf": "2.6.3",
     "standard-changelog": "2.0.7",
-    "semantic-release": "^15.13.12"
+    "semantic-release": "^17.2.3"
   },
   "publishConfig": {
     "access": "public"
